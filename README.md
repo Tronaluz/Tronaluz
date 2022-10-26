@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bom dia, Boa tarde e Boa noite!!!
+### Aqui quem fala é o Lucas 🖖
 
-<!--
-**Tronaluz/Tronaluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓 Atualmente estou a procura de uma vaga de estágio
+- 💻 Estudando Javascript, Html, Css e desbravando o Typescript
+- 📫 E-mail para contato: lucas_tron@hotmail.com
+- 🎃 Pronome: Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tronaluz)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
