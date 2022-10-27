@@ -7,10 +7,18 @@
 - 🎃 Pronome: Ele/Dele
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tronaluz)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <a href-"https://github.com/Tronaluz">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tronaluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tronaluz&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+<div style="display: inline_blocks"<<br>       
+  <img align="center" alt="Tron-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Tron-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Tron-JAVASCRIPT" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Tron-JAVASCRIPT" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
+</div>
 
-
-
-
-
+##
 
