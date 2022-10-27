@@ -28,3 +28,13 @@
  <a herf="https://www.instagram.com/slav_lucas/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a herf="malito:lucastron2601@gmail.com" taget="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
+ 
+ 
+ 
+ ![Snake animation](https://github.com/Tronaluz/Tronaluz/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
