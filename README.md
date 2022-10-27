@@ -1,6 +1,6 @@
-### Bom dia, Boa tarde e Boa noite!!!
-### Aqui quem fala é o Lucas 🖖🏼  
-### Bem vindo ao meu git, sinta-se a vontade para dar olhada e quem sabe contribuir com algo, se precisar de algo mais, minhas informações de contato estão logo abaixo, junto com as minhas habilidades que estão sendo moldadas
+<h1 lign="left"> Bom dia, Boa tarde e Boa noite!!! </h1>
+<h3 lign="left">  Aqui quem fala é o Lucas 🖖🏼 </h3> 
+<h3 lign="left">  Bem vindo ao meu git, sinta-se a vontade para dar olhada e quem sabe contribuir com algo, se precisar de algo mais, minhas informações de contato estão logo abaixo, junto com as minhas habilidades que estão sendo moldadas</h3>
 
 - 👨🏻‍🎓 Atualmente estou a procura de uma vaga de estágio,
 - 💻 Estudando Javascript, Html, Css e desbravando o Typescript
