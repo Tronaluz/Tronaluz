@@ -1,15 +1,16 @@
 ### Bom dia, Boa tarde e Boa noite!!!
-### Aqui quem fala é o Lucas 🖖
+### Aqui quem fala é o Lucas, e  bem vindo ao meu git, sinta-se a vontade para dar olhada e quem sabe contribuir com algo, se precisar de algo mais, minhas informações de contato estão logo abaixo, junto com as minhas habilidades que estão sendo moldadas
 
-- 👨🏻‍🎓 Atualmente estou a procura de uma vaga de estágio
+- 👨🏻‍🎓 Atualmente estou a procura de uma vaga de estágio,
 - 💻 Estudando Javascript, Html, Css e desbravando o Typescript
+- 💪 Sempre acredite que com bastante esforço e foco, somos capazes de tudo
 - 📫 E-mail para contato: lucas_tron@hotmail.com
 - 🎃 Pronome: Ele/Dele
 
 
 <div>
  <a href-"https://github.com/Tronaluz">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tronaluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tronaluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tronaluz&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
@@ -28,8 +29,6 @@
  <a herf="https://www.instagram.com/slav_lucas/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a herf="malito:lucastron2601@gmail.com" taget="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
- 
- 
  
  ![Snake animation](https://github.com/Tronaluz/Tronaluz/blob/output/github-contribution-grid-snake.svg)
 
