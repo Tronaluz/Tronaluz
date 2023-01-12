@@ -12,7 +12,9 @@
 <div>
  <a href-"https://github.com/Tronaluz">
  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tronaluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tronaluz&layout=compact&langs_count=16&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?Tronaluz=zluvsand&layout=compact&theme=dracula"
+      
+      
 </div>
   
 <div style="display: inline_blocks"<<br>       
