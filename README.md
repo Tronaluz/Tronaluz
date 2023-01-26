@@ -2,7 +2,8 @@
 <h3 lign="left">  Aqui quem fala é o Lucas 🖖🏼 </h3> 
 <h3 lign="left">  Bem vindo ao meu git, sinta-se a vontade para dar olhada e quem sabe contribuir com algo, se precisar de algo mais, minhas informações de contato estão logo abaixo, junto com as minhas habilidades que estão sendo moldadas</h3>
 
-- 👨🏻‍🎓 Atualmente estou a procura de uma vaga de estágio,
+- 👨🏻‍🎓 Atualmente estou a procura de uma vaga de estágio
+- 👾 Meu portifolio: https://tronaluz.github.io/portifolioReal/
 - 💻 Estudando Javascript, Html, Css e desbravando o Typescript
 - 💪 Sempre acredite que com bastante esforço e foco, somos capazes de tudo
 - 📫 E-mail para contato: lucas_tron@hotmail.com
