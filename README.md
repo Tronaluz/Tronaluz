@@ -29,8 +29,6 @@
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/slav_tron)
 
  
-![Snake animation](https://github.com/Tronaluz/Tronaluz/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
