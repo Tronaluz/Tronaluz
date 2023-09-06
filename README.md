@@ -14,6 +14,7 @@
  <a href-"https://github.com/Tronaluz">
  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tronaluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tronaluz&hide_progress=true&theme=dracula"/>
+ </div>
   
 <div style="display: inline_blocks"<<br>       
   <img align="center" alt="Tron-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -23,14 +24,7 @@
 </div>
 
 ##
-
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-b9459b209)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/slav_tron)
-
  
-
-
-
-
-
+[![snake gif](https://github.com/Tronaluz/Tronaluz/blob/output/github-contribution-grid-snake.gif)
