@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28b7d7&height=120&section=header"/>
-<h1 lign="left"> Bom dia, Boa tarde e Boa noite!!! </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello There+!!!;I'm+22+years+old;I'm+from+Brazil;I'm+majoring+in+information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <h3 lign="left">  Aqui quem fala é o Lucas 🖖🏼 </h3> 
 <h3 lign="left">  Bem vindo ao meu git, sinta-se a vontade para dar olhada e quem sabe contribuir com algo, se precisar de algo mais, minhas informações de contato estão logo abaixo, junto com as minhas habilidades que estão sendo moldadas</h3>
 
