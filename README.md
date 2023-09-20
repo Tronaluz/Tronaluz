@@ -1,12 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28b7d7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28b7d7&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+!!!;I'm+22+years+old;I'm+from+Brazil;I'm+majoring+in+information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28b7d7&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+!!!;My+name+is+Lucas;I'm+22+years+old;I'm+from+Brazil;I'm+majoring+in+information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 lign="left">  Aqui quem fala é o Lucas 🖖🏼 </h3> 
 <h3 lign="left">  Bem vindo ao meu git, sinta-se a vontade para dar olhada e quem sabe contribuir com algo, se precisar de algo mais, minhas informações de contato estão logo abaixo, junto com as minhas habilidades que estão sendo moldadas</h3>
 
-- 👨🏻‍🎓 Atualmente estou a procura de uma vaga de estágio
-- 👾 Meu portifolio: https://tronaluz.github.io/portifolioReal/
+- 👾 My portifolio: https://tronaluz.github.io/portifolioReal/
 - 💻 Estudando Javascript, Html, Css e desbravando o Typescript
 - 💪 Sempre acredite que com bastante esforço e foco, somos capazes de tudo
 - 📫 E-mail para contato: lucas_tron@hotmail.com
