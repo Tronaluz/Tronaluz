@@ -4,7 +4,7 @@
 
 <h3 align="center",color=28b7d7>Feel free to take a look and maybe contribute to it. If you need anything else, my contact information is right below, along with my skills that are being shaped 🛠️</h3>
 
-- 👾 My portifolio: https://vercel.com/tronaluzs-projects/port
+- 👾 My portifolio: https://port-nine-sage.vercel.app/
 - 💪 Sempre acredite que com bastante esforço e foco, somos capazes de tudo
 - 📫 E-mail para contato: lucas_tron@hotmail.com
 - 🎃 Pronome: Ele/Dele
