@@ -4,14 +4,15 @@
 
 <h3 align="center",color=28b7d7>Feel free to take a look and maybe contribute to it. If you need anything else, my contact information is right below, along with my skills that are being shaped 🛠️</h3>
 
+<div color=28b7d7>
 - 👾 My portifolio: https://port-nine-sage.vercel.app/
 - 💪 Sempre acredite que com bastante esforço e foco, somos capazes de tudo
 - 📫 E-mail para contato: lucas_tron@hotmail.com
 - 🎃 Pronome: Ele/Dele
-
+</div>
 
 <div>
- <a href-"https://github.com/Tronaluz">
+ <a  href-"https://github.com/Tronaluz">
  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tronaluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tronaluz&hide_progress=true&theme=dracula"/>
  </div>
