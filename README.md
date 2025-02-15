@@ -54,7 +54,6 @@ DevOps: Docker, Git, CI/CD
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Tronaluz&theme=dark&background=000000" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Tronaluz&theme=dracula&row=1" alt="Trophies" />
 </div>
