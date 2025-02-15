@@ -1,41 +1,78 @@
 <!-- Header animado -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28b7d7&height=120&section=header"/>
 
-<!-- Counter de visitas -->
-[![Visitors](https://komarev.com/ghpvc/?username=Tronaluz&style=flat-square&color=28b7d7)](https://github.com/Tronaluz)
+<div align="center">
+  <!-- Apresentação com efeito de digitação -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28b7d7&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Lucas;Desenvolvedor+Fullstack;22+anos;Brasil;Graduado+em+Sistemas+de+Informação)](https://git.io/typing-svg)
 
-<!-- Apresentação com efeito de digitação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28b7d7&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Lucas;Desenvolvedor+Fullstack;22+anos;Brasil;Graduado+em+Sistemas+de+Informação)](https://git.io/typing-svg)
+  <!-- Counter de visitas -->
+  [![Visitors](https://komarev.com/ghpvc/?username=Tronaluz&style=flat-square&color=28b7d7)](https://github.com/Tronaluz)
+</div>
 
-<!-- Título principal -->
-<h3 align="center">Bem-vindo ao meu perfil GitHub! 🚀</h3>
+## 👨‍💻 Sobre Mim
 
-<!-- Seção de apresentação interativa -->
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
-  <div align="center">
-    <p>Estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento web.</p>
-    <p>📫 Email: lucas_tron@hotmail.com | 🎃 Pronome: Ele/Dele</p>
-  </div>
-</details>
+Desenvolvedor Fullstack apaixonado por criar soluções inovadoras e eficientes. Graduado em Sistemas de Informação, com experiência em desenvolvimento web e aplicações modernas.
 
-<!-- Portfolio -->
-<p align="center">
-  <a href="https://port-nine-sage.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu Portfolio-28b7d7?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+- 🔭 Atualmente trabalhando com desenvolvimento web fullstack
+- 🌱 Sempre aprendendo novas tecnologias e metodologias
+- 💼 Aberto a novas oportunidades e colaborações
+- 📫 Contato: lucas_tron@hotmail.com
 
-<!-- Estatísticas do GitHub -->
+## 🎯 Especialidades
+
+```
+Frontend: React.js, TypeScript, HTML5/CSS3
+Backend: PHP, Node.js, Python
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+DevOps: Docker, Git, CI/CD
+```
+
+## 💻 Principais Habilidades
+
+<div align="center">
+
+| Área | Tecnologias |
+|------|-------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+
+</div>
+
+## 📊 Estatísticas GitHub
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tronaluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tronaluz&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
-<!-- Estatísticas avançadas -->
+## 🏆 Conquistas
+
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tronaluz&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Tronaluz&theme=dracula)](https://github.com/Tronaluz)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tronaluz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tronaluz&theme=dracula&row=1)](https://github.com/Tronaluz)
+
+</div>
+
+## 🌟 Projetos em Destaque
+
+<div align="center">
+  <a href="https://port-nine-sage.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio_Pessoal-28b7d7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
+
+## 🤝 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-oliveira-b9459b209" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/slav_tron" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
 </div>
 
 <!-- Snake Game -->
@@ -43,40 +80,5 @@
   <img src="https://github.com/Tronaluz/Tronaluz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Tabela de habilidades -->
-<details>
-  <summary>📚 Habilidades</summary>
-  <table align="center">
-    | Tecnologia | Nível | Experiência |
-    |------------|--------|-------------|
-    | PHP        | ⭐⭐⭐   | 2 anos      |
-    | JavaScript | ⭐⭐⭐   | 1 ano       |
-    | Python     | ⭐⭐    | 6 meses     |
-    | TypeScript | ⭐⭐    | 6 meses     |
-    | HTML5      | ⭐⭐⭐   | 2 anos      |
-  </table>
-</details>
-
-<!-- Tecnologias -->
-## ⚡ Tech Stack:
-<div style="display: inline_block"><br>       
-  <img align="center" alt="PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="HTML5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="JavaScript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
-
-<!-- Redes Sociais -->
-## 🌍 Conecte-se comigo!
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-oliveira-b9459b209" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/slav_tron" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-</p>
-
-<!-- Citação inspiradora -->
-<p align="center">💪 "Com esforço e foco, somos capazes de tudo"</p>
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28b7d7&height=120&section=footer"/>
