@@ -78,7 +78,6 @@ DevOps: Docker, Git, CI/CD
 </div>
 
 <!-- Snake Game -->
-<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -93,7 +92,6 @@ DevOps: Docker, Git, CI/CD
     src="https://raw.githubusercontent.com/Tronaluz/Tronaluz/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</div>
 
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28b7d7&height=120&section=footer"/>
