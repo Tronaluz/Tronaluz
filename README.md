@@ -22,7 +22,7 @@ Desenvolvedor Fullstack apaixonado por criar soluções inovadoras e eficientes.
 - 💼 Aberto a novas oportunidades e colaborações
 - 📫 Contato: lucas_tron@hotmail.com
 
-## 🎯 Especialidades
+## 🎯 Especialidades.
 
 ```
 Frontend: React.js, TypeScript, HTML5/CSS3
