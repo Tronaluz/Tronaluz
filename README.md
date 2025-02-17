@@ -61,10 +61,10 @@ Desenvolvedor Fullstack apaixonado por criar soluções inovadoras e eficientes.
 
 
 ## 🏆 Conquistas
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tronaluz&theme=nord&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tronaluz&theme=nord&no-frame=true&no-bg=true" />
 </div>
+
 
 ## 🌟 Projetos em Destaque
 
